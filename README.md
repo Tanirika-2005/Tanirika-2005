@@ -11,8 +11,8 @@ Welcome to my GitHub!
 
 ## 🌟 Featured Project
 
-### [CDN Management 1](#)
-*Managing content delivery like a pro!*
+### https://github.com/Tanirika-2005/CDN_MANAGEMENT
+*This project implements an intelligent caching system for movie recommendations, optimizing performance by caching frequently accessed data and predicting the next movie genres a user might be interested in, providing an efficient cache management strategy.*
 
 <!-- If you want to link the actual repo, replace # with the repo URL -->
 

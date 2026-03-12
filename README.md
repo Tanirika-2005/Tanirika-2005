@@ -9,13 +9,6 @@ Welcome to my GitHub!
 - **Frameworks:** Django
 - Always ready to learn something new and dive into challenging problems!
 
-## 🌟 Featured Project
-
-### https://github.com/Tanirika-2005/CDN_MANAGEMENT
-*This project implements an intelligent caching system for movie recommendations, optimizing performance by caching frequently accessed data and predicting the next movie genres a user might be interested in, providing an efficient cache management strategy.*
-
-<!-- If you want to link the actual repo, replace # with the repo URL -->
-
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tanirika-r-969276252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)

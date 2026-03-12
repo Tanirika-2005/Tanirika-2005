@@ -13,13 +13,4 @@ Welcome to my GitHub!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tanirika-r-969276252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
----
 
-🧠 Fun Fact: I believe in code, coffee, and a dash of curiosity!  
-🐍 Always up for a Pythonic conversation or a C++ challenge.
-
-> “Code is like humor. When you have to explain it, it’s bad.”
-
----
-
-Thanks for stopping by! Let’s connect, collaborate, and create something awesome. 🚀

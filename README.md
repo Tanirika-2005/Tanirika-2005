@@ -1,7 +1,7 @@
 # Hi there, I'm Tanirika 👋
 
 Welcome to my GitHub!  
-🌱 Currently an **Intern at nference**  
+🌱 ex **Intern at nference**  
 🔭 Passionate about building and breaking cool things with code
 
 ## 🚀 Tech Stack & Skills

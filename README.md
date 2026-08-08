@@ -2,6 +2,7 @@
 
 Welcome to my GitHub!  
 Founder @Mudivu
+
 🌱 ex **Intern at nference**  
 🔭 Passionate about building and breaking cool things with code
 

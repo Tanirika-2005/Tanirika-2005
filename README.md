@@ -1,12 +1,13 @@
 # Hi there, I'm Tanirika 👋
 
 Welcome to my GitHub!  
+Founder @Mudivu
 🌱 ex **Intern at nference**  
 🔭 Passionate about building and breaking cool things with code
 
 ## 🚀 Tech Stack & Skills
-- **Languages:** Python, C++
-- **Frameworks:** Django
+- **Languages:** Python, C , Java
+- **Frameworks and Tech:** Django , ZKP , HyperLedger , Git , Docker
 - Always ready to learn something new and dive into challenging problems!
 
 ## 🤝 Connect with Me
